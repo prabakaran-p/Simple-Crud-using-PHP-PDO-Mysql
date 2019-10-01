@@ -13,6 +13,6 @@ Contents for PHP PDO CRUD
     Edit records
     Delete a record
     
-    Tutorial Link: http://www.prabaweb.in/simple-crud-using-php-pdo-mysql/
     
-    FOR More Tutorials Please visit: http://www.prabaweb.in
+    
+    FOR More Tutorials Please visit: https://sleepy-coder.blogspot.com
